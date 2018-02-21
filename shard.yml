@@ -2,7 +2,7 @@ name: crustache
 description: |
   {{Mustache}} for Crystal
 version: 2.4.0
-crystal: 0.24.1
+
 
 authors:
   - TSUYUSATO Kitsune <make.just.on@gmail.com>
